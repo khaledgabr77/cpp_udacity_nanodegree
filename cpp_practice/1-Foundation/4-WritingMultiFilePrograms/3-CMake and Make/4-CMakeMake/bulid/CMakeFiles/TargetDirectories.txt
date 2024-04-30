@@ -1,0 +1,3 @@
+/home/khaled/WelcomeCPP/4-WritingMultiFilePrograms/3-CMake and Make/4-CMakeMake/bulid/CMakeFiles/edit_cache.dir
+/home/khaled/WelcomeCPP/4-WritingMultiFilePrograms/3-CMake and Make/4-CMakeMake/bulid/CMakeFiles/rebuild_cache.dir
+/home/khaled/WelcomeCPP/4-WritingMultiFilePrograms/3-CMake and Make/4-CMakeMake/bulid/CMakeFiles/khaled.dir

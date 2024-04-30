@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/khaled/WelcomeCPP/4-WritingMultiFilePrograms/3-CMake and Make/4-CMakeMake/src/increment_and_sum.cpp
+vect_add_one.h
+/home/khaled/WelcomeCPP/4-WritingMultiFilePrograms/3-CMake and Make/4-CMakeMake/src/vect_add_one.h
+
+/home/khaled/WelcomeCPP/4-WritingMultiFilePrograms/3-CMake and Make/4-CMakeMake/src/increment_and_sum.h
+vector
+-
+
+/home/khaled/WelcomeCPP/4-WritingMultiFilePrograms/3-CMake and Make/4-CMakeMake/src/main.cpp
+iostream
+-
+vector
+-
+increment_and_sum.h
+/home/khaled/WelcomeCPP/4-WritingMultiFilePrograms/3-CMake and Make/4-CMakeMake/src/increment_and_sum.h
+
+/home/khaled/WelcomeCPP/4-WritingMultiFilePrograms/3-CMake and Make/4-CMakeMake/src/vect_add_one.cpp
+vect_add_one.h
+/home/khaled/WelcomeCPP/4-WritingMultiFilePrograms/3-CMake and Make/4-CMakeMake/src/vect_add_one.h
+
+/home/khaled/WelcomeCPP/4-WritingMultiFilePrograms/3-CMake and Make/4-CMakeMake/src/vect_add_one.h
+vector
+-
+

@@ -1,0 +1,12 @@
+Compiling One File of Many, Step 1¶
+In the previous example, you compiled a single source code file to an object file, and that object file was then converted into an executable.
+
+Now you are going to try the same process with multiple files. Navigate to the multiple_files_example directory in the terminal to the right. This directory should have the increment_and_sum and vect_add_one files from a previous Notebook. Try compiling with the commands below:
+
+
+root@abc123defg:/home/workspace/multiple_files_example# g++ -c *.cpp
+root@abc123defg:/home/workspace/multiple_files_example# g++ *.o
+root@abc123defg:/home/workspace/multiple_files_example# ./a.out
+Here, the * operator is a wildcard, so any matching file is selected. If you compile and run these files together, the executable should print:
+
+The total is: 14

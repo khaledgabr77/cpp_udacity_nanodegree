@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/khaled.dir/src/main.cpp.o CMakeFiles/khaled.dir/src/vect_add_one.cpp.o CMakeFiles/khaled.dir/src/increment_and_sum.cpp.o  -o khaled 
